@@ -1,0 +1,5 @@
+print("Hello, World!")
+print(123)
+print("123")
+print("1+1=")
+print(1+1)
